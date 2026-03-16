@@ -1,0 +1,16 @@
+# Core
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+
+# OpenAI
+openai
+
+# HTTP client (for async OpenAI + testing)
+httpx
+
+# Testing
+pytest
+pytest-asyncio
