@@ -1,0 +1,8 @@
+Repository: LLM-PROMPT-ROUTER
+Description: Initial commit: LLM Prompt Router with intent classification, expert routing, logging, and Docker support.
+Topics: portfolio-project
+
+GitHub Settings Updates:
+1. Go to https://github.com/Manirider/LLM-PROMPT-ROUTER/settings
+2. Update the Description field to: Initial commit: LLM Prompt Router with intent classification, expert routing, logging, and Docker support.
+3. Add the following tags under Topics: portfolio-project
